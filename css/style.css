@@ -1,0 +1,31 @@
+ body{
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ h1{
+    color: brown;
+    background-color: yellowgreen;
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    border: 2px solid red;
+}
+p{
+    color: cornflowerblue;
+    margin-left: 10px;
+}
+#noa{
+    color: blue;
+}
+.author{
+    color: chocolate;
+}
+.auth{
+    margin: 8px;
+    padding: 10px;
+    border: solid red;
+}
+.name{
+    color: orchid;
+}
